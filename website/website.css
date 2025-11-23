@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.window {
+    background-color: #034366;
+    border-radius: 25px;
+    width: 50%;
+    margin-left: 425px;
+    margin-top: 100px;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: #ba5bba;
+    background-color: linear-gradient(90deg,rgba(186, 91, 186, 1) 0%, rgba(103, 50, 156, 1) 50%, rgba(58, 103, 176, 1) 100%);
+
+}
+
+
+.test2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 85px;
+    margin-top: -100px;
+    color: white;
+
+}
+
+.pfp{
+    margin-left: 50px;
+    margin-top: 55px;
+    width: 15%;
+    border-radius: 50%;
+    gap: 8px
+}
+
+.contacts {
+    background: #005786;
+    background: linear-gradient(90deg,rgba(0, 87, 134, 1) 0%, rgba(98, 123, 217, 1) 50%, rgba(71, 160, 204, 1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    gap: 8px;
+    margin-left: 325px;
+    border-radius: 25px;
+}
+
+.about {
+    background: #005786;
+    background: linear-gradient(90deg,rgba(0, 87, 134, 1) 0%, rgba(98, 123, 217, 1) 50%, rgba(71, 160, 204, 1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    gap: 8px;
+    margin-left: 755px;
+    border-radius: 25px;
+    color: white;
+}
+.icon{
+    height: 40px;
+    border-radius: 50%;
+}
+
+.skill{
+    text-align: center;
+}
+
+
+
+.skills{
+    width:300px;
+    margin: 0 auto;
+    font-size: 18px;
+    background: #005786;
+    background: linear-gradient(90deg,rgba(0, 87, 134, 1) 0%, rgba(98, 123, 217, 1) 50%, rgba(71, 160, 204, 1) 100%);
+    border-radius: 25px;
+    color: white;
+}
